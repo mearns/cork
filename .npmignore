@@ -1,0 +1,12 @@
+echs/
+node_modules/
+.nyc_output/
+.vscode/
+coverage/
+logs/
+npmpackagejsonlint.config.js
+.editorconfig
+.gitignore
+.gitlab-ci.yml
+Dockerfile
+logo.png
