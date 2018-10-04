@@ -7,6 +7,3 @@ logs/
 npmpackagejsonlint.config.js
 .editorconfig
 .gitignore
-.gitlab-ci.yml
-Dockerfile
-logo.png
